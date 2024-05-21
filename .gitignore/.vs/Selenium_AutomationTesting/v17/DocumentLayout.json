@@ -1,0 +1,80 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc_tap\\kiem_thu\\kiem_thu\\Selenium_AutomationTesting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC909B8-99D9-4A86-A2EE-0BD0008B22E7}|Selenium_AutomationTesting\\Selenium_AutomationTesting.csproj|d:\\hoc_tap\\kiem_thu\\kiem_thu\\selenium_automationtesting\\selenium_automationtesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC909B8-99D9-4A86-A2EE-0BD0008B22E7}|Selenium_AutomationTesting\\Selenium_AutomationTesting.csproj|solutionrelative:selenium_automationtesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC909B8-99D9-4A86-A2EE-0BD0008B22E7}|Selenium_AutomationTesting\\Selenium_AutomationTesting.csproj|D:\\Hoc_tap\\kiem_thu\\kiem_thu\\Selenium_AutomationTesting\\selenium_automationtesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EC909B8-99D9-4A86-A2EE-0BD0008B22E7}|Selenium_AutomationTesting\\Selenium_AutomationTesting.csproj|solutionrelative:selenium_automationtesting\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Hoc_tap\\kiem_thu\\kiem_thu\\Selenium_AutomationTesting\\Selenium_AutomationTesting\\Form1.cs",
+              "RelativeDocumentMoniker": "Selenium_AutomationTesting\\Form1.cs",
+              "ToolTip": "D:\\Hoc_tap\\kiem_thu\\kiem_thu\\Selenium_AutomationTesting\\Selenium_AutomationTesting\\Form1.cs",
+              "RelativeToolTip": "Selenium_AutomationTesting\\Form1.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAowPUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:03:19.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Hoc_tap\\kiem_thu\\kiem_thu\\Selenium_AutomationTesting\\Selenium_AutomationTesting\\Form1.cs",
+              "RelativeDocumentMoniker": "Selenium_AutomationTesting\\Form1.cs",
+              "ToolTip": "D:\\kiem_thu\\Selenium_AutomationTesting\\Selenium_AutomationTesting\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\kiem_thu\\Selenium_AutomationTesting\\Selenium_AutomationTesting\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-05-21T15:03:20.913Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
